@@ -1,4 +1,16 @@
 """
+
+#######                                           #######                       #####                                                                       #####                              
+#         ##   #####  #    # ###### #####         #        ####  #    #        #     # #    # #  ####  #    # ###### #    #          ##   #    # #####     #     # ###### ###### #####   ####  
+#        #  #  #    # ##  ## #      #    #        #       #    #  #  #         #       #    # # #    # #   #  #      ##   #         #  #  ##   # #    #    #       #      #      #    # #      
+#####   #    # #    # # ## # #####  #    #        #####   #    #   ##          #       ###### # #      ####   #####  # #  #        #    # # #  # #    #     #####  #####  #####  #    #  ####  
+#       ###### #####  #    # #      #####  ###    #       #    #   ##   ###    #       #    # # #      #  #   #      #  # # ###    ###### #  # # #    #          # #      #      #    #      # 
+#       #    # #   #  #    # #      #   #  ###    #       #    #  #  #  ###    #     # #    # # #    # #   #  #      #   ## ###    #    # #   ## #    #    #     # #      #      #    # #    # 
+#       #    # #    # #    # ###### #    #  #     #        ####  #    #  #      #####  #    # #  ####  #    # ###### #    #  #     #    # #    # #####      #####  ###### ###### #####   ####  
+                                           #                            #                                                   #                                                                  
+
+
+
 This Python script solves the Farmer, Fox, Chicken, and Seeds problem using the Breadth-First Search (BFS) algorithm.
 The problem involves moving the Farmer, Fox, Chicken, and Seeds from one side of the river to the other while adhering to the following constraints:
 1. The Farmer must be present for the boat to move.
