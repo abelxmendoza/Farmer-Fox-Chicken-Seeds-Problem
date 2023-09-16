@@ -39,7 +39,6 @@ python3 BFS.py
 
     4. The script will output the optimal solution path or indicate that no solution 		   was found.
 
-
 ## Output
 
 * If a solution is found, the script displays the sequence of states representing the steps taken to solve the problem.
@@ -52,3 +51,8 @@ Contributions to this repository are welcome! Feel free to open issues, suggest 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+
+
+## Documentation:
+
+[https://docs.google.com/document/d/1t0bS8v3cPHdEAquWiqjxTLejev2GLJY5WfG0WhinLMc/edit?usp=sharing](https://docs.google.com/document/d/1t0bS8v3cPHdEAquWiqjxTLejev2GLJY5WfG0WhinLMc/edit?usp=sharing)
