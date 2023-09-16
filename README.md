@@ -16,6 +16,7 @@ The script efficiently explores the state space, finds the optimal solution with
 ## Contents
 
 * `BFS.py`: The Python script that implements the BFS algorithm to solve the problem. It adheres to PEP 8 guidelines and includes comments for clarity and readability.
+  `BFStree.py`: The Python script that makes the diagram for this problem
 
 ## Usage
 
@@ -43,6 +44,10 @@ python3 BFS.py
 
 * If a solution is found, the script displays the sequence of states representing the steps taken to solve the problem.
 * If no solution exists, it reports that no solution was found.
+
+  #### **BFStree.py:**
+
+  ![1694894172519](image/README/1694894172519.png)
 
 ## Contribution
 
